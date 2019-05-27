@@ -1,5 +1,5 @@
 //My public key
-const API_publicKey = "FLWPUBK_TEST-9070a8d235099f5ac7db26a0356e92b3-X";
+const API_publicKey = "FLWPUBK_TEST-ab6dc043845ddb0f90d7f7aaa90d79c0-X";
 
 function splitPayment() {
     var x = getpaidSetup({
